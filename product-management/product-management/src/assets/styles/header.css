@@ -1,0 +1,35 @@
+.header {
+	background-color: rgb(41, 41, 41);
+	padding: 20px 10px;
+	color: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+}
+
+.header-logo {
+	font-weight: bold;
+	font-size: 28px;
+	text-transform: uppercase;
+}
+
+.header-main {
+	margin-left: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.header-main h4 {
+	cursor: pointer;
+	margin-right: 10px;
+}
+
+.header-main button {
+	background-color: #fff;
+	color: red;
+	padding: 8px 12px;
+	border-radius: 5px;
+	font-weight: bold;
+	cursor: pointer;
+}

@@ -1,0 +1,1 @@
+export const LOCALSTORAGE_LIST_PRODUCT = 'list-product';

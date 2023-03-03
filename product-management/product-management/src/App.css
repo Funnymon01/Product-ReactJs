@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,300&display=swap');
+@import "./assets/styles/header.css";
+@import "./assets/styles/product.css";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.home,
+.add-new {
+  width: 100%;
+}
+
+.custom-button {
+  margin: 16px !important;
+  width: 200px !important;
+  padding: 8px 12px !important;
+}
